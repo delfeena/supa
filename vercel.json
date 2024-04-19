@@ -1,5 +1,7 @@
 {
   "functions": {
-    "api": "puppeteer-function/index.js"
+    "api": {
+      "handler": "api/index.js"
+    }
   }
 }
